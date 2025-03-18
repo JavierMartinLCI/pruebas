@@ -1,11 +1,11 @@
 {
     "data": [
         {
-            "nombre ": "alone",
+            "nombre": "alone",
             "url": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/alone.mp3"
         },
         {
-            "nombre ": "garden",
+            "nombre": "garden",
             "url": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/gardens.mp3"
         }
     ]

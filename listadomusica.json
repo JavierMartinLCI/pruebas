@@ -1,8 +1,12 @@
 {
     "data": [
         {
-            "alone": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/alone.mp3",
-            "gardens": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/gardens.mp3"
+            "nombre ": "alone",
+            "url": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/alone.mp3"
+        },
+        {
+            "nombre ": "garden",
+            "url": "https://raw.githubusercontent.com/JavierMartinLCI/pruebas/refs/heads/main/gardens.mp3"
         }
     ]
 }
